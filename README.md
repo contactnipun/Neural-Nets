@@ -3,7 +3,7 @@ Solving Industry based and Solution based problems through Neural Networks
 
 
 
-# 1: Neural Nets as Regressor
+# 1. Neural Nets as Regressor
 DOMAIN : Electronics and Telecommunication
 
 # CONTEXT 
