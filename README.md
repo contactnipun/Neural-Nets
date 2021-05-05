@@ -1,6 +1,7 @@
 # Neural Networks
 
-# Number 1: Neural Nets as Regressor
+
+# 1: Neural Nets as Regressor
 DOMAIN : Electronics and Telecommunication
 
 # CONTEXT 
@@ -14,9 +15,13 @@ Communications equipment manufacturing companies have products which are respons
 • **Objective**: Build a regressor which can use these parameters to determine the signal strength or quality [as number].
 
 • **Steps and tasks:**
-    1. Import data.
-    2. Data analysis & visualisation
-        • Performing relevant and detailed statistical analysis on the data.
-        • Performing relevant and detailed uni, bi and multi variate analysis.
-    3. Designing, training, tuning and testing a neural network regressor.
-    4. Pickling the model for future use.
+
+1. Import data.
+
+2. Data analysis & visualisation
+   • Performing relevant and detailed statistical analysis on the data.
+   • Performing relevant and detailed uni, bi and multi variate analysis.
+
+3. Designing, training, tuning and testing a neural network regressor.
+
+4. Pickling the model for future use.
